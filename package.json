@@ -19,8 +19,8 @@
         "mocha": "^8.2.1",
         "nodemon": "^2.0.2",
         "pg": "^7.18.2",
-        "postcss": "^8.1.10",
-        "tailwindcss": "^2.0.1"
+        "postcss": "^8.4.47",
+        "tailwindcss": "^2.2.19"
     },
     "devDependencies": {
         "gulp": "^4.0.2",
